@@ -1,7 +1,13 @@
 # ✈️ Airfare Insights – Analyzing Indian Flight Prices and Patterns
 
-This project explores factors affecting airfare pricing in the Indian domestic flight market.  
-Using a real-world dataset of airline ticket prices, we apply data cleaning, exploratory data analysis (EDA), statistical methods, and SQL queries to uncover pricing trends and generate actionable insights for both customers and airlines.
+Airfare pricing is influenced by several dynamic factors such as airline brand, travel duration, number of stops, departure timing, and route demand.
+This project focuses on analyzing Indian domestic flight ticket prices using real-world airline data to uncover pricing patterns and customer trends.
+
+Through data cleaning, exploratory data analysis (EDA), statistical analysis, SQL queries, and dashboard visualizations, the project generates actionable insights that can help:
+
+Travelers make cost-effective booking decisions
+Airlines optimize pricing strategies
+Analysts understand market behavior in the aviation industry
 
 ---
 
